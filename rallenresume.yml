@@ -1,4 +1,6 @@
 ---
+Description: Creative, aggressive lawyer with transactional and litigation experience. 
+
 Name:
     First: Richard
     Middle: D.
@@ -20,8 +22,6 @@ Web:
     PersonalSite: http://www.richardallen.co
     Twitter: http://www.twitter.com/allenlawnc
     Tumblr: http://allenlawnc.tumblr.com
-    
-Description: Creative, aggressive lawyer with transactional and litigation experience. 
 
 Education:
     JD: 
@@ -55,16 +55,31 @@ Experience:
             - Litigation: [42 U.S.C. § 1983, Other Constitutional Claims]
     Industries: [Health Care, Technology, Startups, Food/Beverage/Live Entertainment]
             
-Articles:
-    Article1:
-        - Date: 
-        - Publication:
-        - Title: 
-        - URL: 
-    Article2:
+SelectedArticles:  
+    12-06-28WashingtonSpectator:
+        - Date: 12-06-28
+        - Publication: The Washington Spectator
+        - Title: "Roberts's Rehnquist-Meets-O'Connor Compromise"
+        - URL: http://washingtonspectator.us/jo15/index.php/Blog/entry/richard-d-allen-robertss-rehnquist-meets-oconnor-compromise.html
+    10-04-2895Years:
+        - Date: 10-04-28
+        - Publication: 95Years.com
+        - Title: "Blogging the Law.Gov Conference at Duke Law: Should the Law be Open Source?"
+        - URL: http://web.archive.org/web/20100504154450/http://www.95years.com/2010/04/28/law-gov-conference-at-duke-law-should-the-law-be-open-source/
+    10-02-2695Years:
+        - Date: 10-02-26
+        - Publication: 95Years.com
+        - Title: "Can You Copyright Your Tweets?"
+        - URL: http://web.archive.org/web/20100505135916/http://www.95years.com/2010/02/26/can-you-copyright-your-tweets/
+    10-01-2295Years:
+        - Date: 10-01-22
+        - Publication: 95Years.com
+        - Title: "Citizens United v. FEC: Eight Unanswered Questions"
+        - URL: http://web.archive.org/web/20100125091118/http://www.95years.com/?p=195
+    07-12-01AlaskaLawReview:
         - Date: 07-12-01
         - Publication: Alaska Law Review
-        - Title: IS THE OFFICE CLOSED? THE ROLE OF THE OFFICE OF VICTIMS' RIGHTS AFTER COOPER V. DISTRICT COURT 
+        - Title: "IS THE OFFICE CLOSED? THE ROLE OF THE OFFICE OF VICTIMS' RIGHTS AFTER COOPER V. DISTRICT COURT" 
         - URL: http://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1067&context=alr
 
 ...
