@@ -1,0 +1,230 @@
+{
+  "Description": "Creative, aggressive lawyer with transactional and litigation experience.",
+  "Name": {
+    "First": "Richard",
+    "Middle": "D.",
+    "Last": "Allen"
+  },
+  "Contact": {
+    "Email": "richard@allenlawnc.com",
+    "Phone": 9198865005,
+    "Fax": 8667487772,
+    "Add1": "528 N. East Street",
+    "Add2": null,
+    "City": "Raleigh",
+    "State": "North Carolina",
+    "ZIP": 27604,
+    "Country": "United States of America"
+  },
+  "Web": {
+    "BusinessSite": "http://www.allenlawnc.com",
+    "PersonalSite": "http://www.richardallen.co",
+    "Twitter": "http://www.twitter.com/allenlawnc",
+    "Tumblr": "http://allenlawnc.tumblr.com",
+    "GitHub": null
+  },
+  "Education": {
+    "JD": [
+      {
+        "Institution": "Duke University School of Law"
+      },
+      {
+        "Date": "08-05-01"
+      }
+    ],
+    "MFA": [
+      {
+        "Institution": "New York University"
+      },
+      {
+        "Date": "04-05-01"
+      }
+    ],
+    "BA": [
+      {
+        "Institution": "University of North Carolina at Chapel Hill"
+      },
+      {
+        "Date": "97-12-01"
+      }
+    ]
+  },
+  "Experience": {
+    "PracticeAreas": [
+      {
+        "BusinessLaw": [
+          {
+            "Transactional": [
+              {
+                "Agreements": [
+                  "Sale",
+                  "Purchase",
+                  "Financing",
+                  "Stock Options",
+                  "Equity"
+                ]
+              }
+            ]
+          },
+          {
+            "Litigation": [
+              {
+                "Business Torts": [
+                  "Unfair and Deceptive Practices"
+                ]
+              },
+              {
+                "Intellectual Property": [
+                  "Copyright",
+                  "Trademark"
+                ]
+              }
+            ]
+          },
+          {
+            "Administrative": [
+              {
+                "Intellectual Property": [
+                  "Copyright",
+                  "Trademark",
+                  "Domain Name"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "EmploymentLaw": [
+          {
+            "Transactional": [
+              {
+                "Agreements": [
+                  "Employment",
+                  "Independent Contractor",
+                  "Non-Disclosure"
+                ]
+              }
+            ]
+          },
+          {
+            "Litigation": [
+              {
+                "FederalClaims": [
+                  "Discrimination",
+                  "Retaliation",
+                  "FMLA",
+                  "ADA",
+                  "FLSA"
+                ]
+              },
+              {
+                "StateClaims": [
+                  "NCWHA",
+                  "REDA"
+                ]
+              }
+            ]
+          },
+          {
+            "Administrative": [
+              "State Employee Matters"
+            ]
+          }
+        ]
+      },
+      {
+        "CivilRights": [
+          {
+            "Litigation": [
+              "42 U.S.C. § 1983",
+              "Other Constitutional Claims"
+            ]
+          }
+        ]
+      }
+    ],
+    "Industries": [
+      "Health Care",
+      "Technology",
+      "Startups",
+      "Food/Beverage/Live Entertainment"
+    ]
+  },
+  "SelectedArticles": {
+    "12-06-28WashingtonSpectator": [
+      {
+        "Date": "12-06-28"
+      },
+      {
+        "Publication": "The Washington Spectator"
+      },
+      {
+        "Title": "Roberts's Rehnquist-Meets-O'Connor Compromise"
+      },
+      {
+        "URL": "http://washingtonspectator.us/jo15/index.php/Blog/entry/richard-d-allen-robertss-rehnquist-meets-oconnor-compromise.html"
+      }
+    ],
+    "10-04-2895Years": [
+      {
+        "Date": "10-04-28"
+      },
+      {
+        "Publication": "95Years.com"
+      },
+      {
+        "Title": "Blogging the Law.Gov Conference at Duke Law: Should the Law be Open Source?"
+      },
+      {
+        "URL": "http://web.archive.org/web/20100504154450/http://www.95years.com/2010/04/28/law-gov-conference-at-duke-law-should-the-law-be-open-source/"
+      }
+    ],
+    "10-02-2695Years": [
+      {
+        "Date": "10-02-26"
+      },
+      {
+        "Publication": "95Years.com"
+      },
+      {
+        "Title": "Can You Copyright Your Tweets?"
+      },
+      {
+        "URL": "http://web.archive.org/web/20100505135916/http://www.95years.com/2010/02/26/can-you-copyright-your-tweets/"
+      }
+    ],
+    "10-01-2295Years": [
+      {
+        "Date": "10-01-22"
+      },
+      {
+        "Publication": "95Years.com"
+      },
+      {
+        "Title": "Citizens United v. FEC: Eight Unanswered Questions"
+      },
+      {
+        "URL": "http://web.archive.org/web/20100125091118/http://www.95years.com/?p=195"
+      }
+    ],
+    "07-12-01AlaskaLawReview": [
+      {
+        "Date": "07-12-01"
+      },
+      {
+        "Publication": "Alaska Law Review"
+      },
+      {
+        "Title": "Is the Office Closed? The Role of the Office of Victims’ Rights After Cooper v. District Court"
+      },
+      {
+        "URL": "http://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1067&context=alr"
+      }
+    ]
+  },
+  "OtherInterests": [
+    "State and local politics.",
+    "Web application development for the legal industry."
+  ]
+}
